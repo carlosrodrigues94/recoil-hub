@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="recoil" src="img-readme.png" height="150px" width="150px"style="border-radius:10px" />
+  <img alt="recoil" src="./img-readme.png" height="150px" width="150px"style="border-radius:10px" />
 </p>
 
 <h3 align="center">
