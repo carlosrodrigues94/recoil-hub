@@ -3,7 +3,7 @@ import { useRecoilState } from 'recoil';
 import { Container,Form } from './styles';
 import { user } from '../../store/modules/user/atom'
 import { useHistory } from 'react-router-dom';
-import api from 'services/api';
+import api from '../../services/api';
 const SignIn: React.FC = () => {
   const history = useHistory()
 
@@ -46,9 +46,10 @@ const SignIn: React.FC = () => {
   return (
 
     <Container>
+      <h4>A Simple Implementation of Recoil with React and Typescript </h4>
       <Form onSubmit={handleSubmit}>
         <img src="https://cdn.dribbble.com/users/31864/screenshots/3666062/free_logos_dribbble_ph.jpg?compress=1&resize=400x300" alt="logo"/>
-        <input placeholder="Git hub user-name"
+        <input placeholder="Type your Git-hub username"
           onChange={(event) => setGitHubUserName(event.target.value)}
           value={gitHubUserName}
           ref={refInput}

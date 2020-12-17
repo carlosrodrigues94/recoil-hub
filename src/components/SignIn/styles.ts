@@ -9,6 +9,11 @@ export const Container  =styled.div`
   height:100vh;
   width:100%;
   transition:all 0.3s;
+
+  h4{
+    margin:0 0 10% 0;
+    color:#fff;
+  }
 `
 
 export const Form = styled.form`
