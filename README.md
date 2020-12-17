@@ -15,8 +15,10 @@
 In this little aplicattion you can type your Git-hub username and see your data of api.github, for this was used the React Recoil js made by Facebook
 
 ## :rocket: Preview
-
+<p align="center">
 <img alt="recoil" src="./img-readme.png" height="250px" width="400" style="margin:0 auto 0  20%" />
+  
+</p>
 
 ---
 
