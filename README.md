@@ -1,15 +1,20 @@
-<p align="center">
-  <img alt="recoil" src="./img-readme.png" height="150px" width="150px"style="border-radius:10px" />
-</p>
+<img alt="recoil" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ey8Yer0j--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/vouoo1zjymbdvuhjzjyh.png" height="250px" width="400" style="margin:0 auto 0  20%" />
 
 <h3 align="center">
-  A simple implementation of Recoil Js library with React and Typescript
+  A simple implementation of Recoil library using React
 </h3>
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+</p>
 
-<img alt="recoil" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0G9L8AI1--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/8ravotpjv4ma7oxldaop.png" height="200px" width="350px"style="border-radius:10px" />
+## :rocket: About
 
-## :memo Deployed by Vercel
+In this little aplicattion you can type your Git-hub username and see your data of api.github, for this was used the React Recoil js made by Facebook
+
+## :rocket: Preview
+
+<img alt="recoil" src="./img-readme.png" height="250px" width="400" style="margin:0 auto 0  20%" />
 
 ---
 
-Made with 💜 by Carlos Rodrigues
+made  by Carlos Rodrigues
