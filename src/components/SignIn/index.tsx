@@ -1,5 +1,5 @@
 import React, { FormEvent, useCallback,  useRef,  useState } from 'react';
-import { useRecoilState, useRecoilValue } from 'recoil';
+import { useRecoilState } from 'recoil';
 import { Container,Form } from './styles';
 import { user } from '../../store/modules/user/atom'
 import { useHistory } from 'react-router-dom';
@@ -9,7 +9,7 @@ const SignIn: React.FC = () => {
 
   const [gitHubUserName, setGitHubUserName] = useState('')
 
-  const [data, setData] = useRecoilState(user)
+  const [, setData] = useRecoilState(user)
 
   // const gitHubData = useRecoilValue(userGitHubData)
 

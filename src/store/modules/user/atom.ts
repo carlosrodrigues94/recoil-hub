@@ -1,4 +1,4 @@
-import { atom, atomFamily, selectorFamily,  } from "recoil";
+import { atom,   } from "recoil";
 
 export interface IUser {
   avatar_url: string;

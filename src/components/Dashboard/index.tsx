@@ -1,13 +1,13 @@
 import React from 'react';
 import { useRecoilState } from 'recoil';
 
-import { user,IUser } from '../../store/modules/user/atom'
+import { user } from '../../store/modules/user/atom'
 
  import { Container, CardUserData } from './styles';
 
 const Dashboard: React.FC = () => {
 
-  const [data, setData] = useRecoilState(user)
+  const [data] = useRecoilState(user)
 
   return (
     <Container>
