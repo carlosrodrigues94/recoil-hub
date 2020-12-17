@@ -11,16 +11,18 @@ export const Container  =styled.div`
   transition:all 0.3s;
 
   h4{
-    margin:0 0 10% 0;
+    margin:0 0 16px 0;
     color:#fff;
+    text-align:center;
   }
+
 `
 
 export const Form = styled.form`
   display:flex;
-  height:500px;
+  height:450px;
   width:100%;
-  max-width:400px;
+  max-width:350px;
   border-radius:5px;
   box-shadow:0 0 5px rgba(0,0,0,0.05);
   align-items:center;justify-content:flex-start;
@@ -52,8 +54,8 @@ export const Form = styled.form`
 
 
   button {
-    height:60px;
-    width:80%;
+    height:45px;
+    width:65%;
     border-radius:5px;
     box-shadow:0 0 5px rgba(0,0,0,0.02);
     background:rgba(2,235,235,0.8);
