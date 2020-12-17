@@ -1,4 +1,7 @@
+<p align="center">
 <img alt="recoil" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ey8Yer0j--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/vouoo1zjymbdvuhjzjyh.png" height="250px" width="400" align="center" />
+</p>
+
 
 <h3 align="center">
   A simple implementation of Recoil library using React
