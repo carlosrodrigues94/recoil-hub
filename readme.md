@@ -16,7 +16,7 @@ In this little aplicattion you can type your Git-hub username and see your data 
 
 ## :rocket: Preview
 <p align="center">
-<img alt="recoil" src="/src/assets/img-readme.png" height="250px" width="400" style="margin:0 auto 0  20%" />
+<img alt="recoil" src="/src/assets/img-readme.png" height="450px" width="300" style="margin:0 auto 0  20%" />
 
 </p>
 
